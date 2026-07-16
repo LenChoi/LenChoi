@@ -52,7 +52,7 @@
   <rect x="365" y="210" width="470" height="3" rx="1.5" fill="url(#accent)">
     <animate attributeName="width" values="0;470;470" dur="2.2s" repeatCount="1"/>
   </rect>
-  <text x="600" y="262" text-anchor="middle" fill="#A9B1D6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="2">BACKEND × BLOCKCHAIN DEVELOPER</text>
+  <text x="600" y="262" text-anchor="middle" fill="#A9B1D6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="2">BACKEND DEVELOPER</text>
   <text x="600" y="305" text-anchor="middle" fill="#7D8590" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">Kotlin  ·  Java  ·  Spring Boot  ·  production systems</text>
 
   <g transform="translate(433 338)">
