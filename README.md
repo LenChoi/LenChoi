@@ -6,7 +6,7 @@
 
 ## Hello, I'm Minho 👋
 
-I'm a **Backend & Blockchain Developer** based in Seoul.
+I'm a **Backend Developer** based in Seoul.
 I build and operate server applications with **Kotlin, Java, and Spring Boot**, with a focus on maintainable domain logic and reliable production behavior.
 
 <div align="center">
