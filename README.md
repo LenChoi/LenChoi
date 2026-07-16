@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Choi Minho — Backend and Blockchain Developer" />
+  <img src="./assets/hero.svg" width="100%" alt="Choi Minho — Backend Developer" />
 </div>
 
 <br />
