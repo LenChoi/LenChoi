@@ -39,6 +39,19 @@
 
   AI supports the execution; architecture, trade-offs, and final responsibility remain human-owned.
 
+  ## GitHub stats
+
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LenChoi&show_icons=true&count_private=true&line_height=24&hide=stars&hide_border=true&theme=github_dark" />
+      <img alt="LenChoi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LenChoi&show_icons=true&count_private=true&line_height=24&hide=stars&hide_border=true" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LenChoi&layout=compact&hide_border=true&theme=github_dark" />
+      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenChoi&layout=compact&hide_border=true" />
+    </picture>
+  </div>
+
   ## This year's contributions
 
   <picture>
