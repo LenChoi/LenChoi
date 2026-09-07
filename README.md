@@ -39,6 +39,17 @@
 
   AI supports the execution; architecture, trade-offs, and final responsibility remain human-owned.
 
+  <div align="center">
+    <a href="https://tokseal.vercel.app/u/LenChoi">
+      <img alt="AI contributions — tokens per day" src="https://tokseal.vercel.app/api/graph?user=LenChoi" width="100%" />
+    </a>
+    <a href="https://tokseal.vercel.app/u/LenChoi">
+      <img alt="tokseal card — grade A+" src="https://tokseal.vercel.app/api/card?user=LenChoi&theme=pixel" />
+    </a>
+    <br />
+    <sub>Live token usage across Claude Code, Codex CLI, and Gemini CLI, sealed by <a href="https://github.com/LenChoi/tokseal">tokseal</a>. Self-reported, aggregate counts only.</sub>
+  </div>
+
   ## GitHub stats
 
   <div align="center">
