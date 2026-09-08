@@ -41,6 +41,11 @@
 
   <div align="center">
     <a href="https://tokseal.vercel.app/u/LenChoi">
+      <img alt="tokseal — grade and total tokens" src="https://tokseal.vercel.app/badge/LenChoi" />
+      <img alt="tokseal — streak" src="https://tokseal.vercel.app/badge/LenChoi?metrics=grade,streak" />
+    </a>
+    <br /><br />
+    <a href="https://tokseal.vercel.app/u/LenChoi">
       <img alt="AI contributions — tokens per day" src="https://tokseal.vercel.app/api/graph?user=LenChoi" width="100%" />
     </a>
     <a href="https://tokseal.vercel.app/u/LenChoi">
