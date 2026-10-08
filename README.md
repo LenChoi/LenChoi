@@ -59,12 +59,8 @@
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LenChoi&show_icons=true&count_private=true&line_height=24&hide=stars&hide_border=true&theme=github_dark" />
-      <img alt="LenChoi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LenChoi&show_icons=true&count_private=true&line_height=24&hide=stars&hide_border=true" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LenChoi&layout=compact&hide_border=true&theme=github_dark" />
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenChoi&layout=compact&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LenChoi/LenChoi/main/stats/github-stats-dark.svg" />
+      <img alt="LenChoi's GitHub stats — private repositories included" src="https://raw.githubusercontent.com/LenChoi/LenChoi/main/stats/github-stats-light.svg" width="100%" />
     </picture>
   </div>
 
