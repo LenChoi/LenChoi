@@ -41,7 +41,7 @@
 
   <div align="center">
     <a href="https://vibrary.dev/u/lenchoi?ref=readme">
-      <img src="https://vibrary.dev/card/lenchoi.png" width="600" alt="LenChoi — verified AI builder profile on Vibrary" />
+      <img src="https://vibrary.dev/card/lenchoi.png" width="100%" alt="LenChoi — verified AI builder profile on Vibrary" />
     </a>
     <br />
     <sub>Auto-recorded from Claude Code, Codex, and Gemini CLI — numbers only, never prompts or code — and verified by GitHub login and product ownership on <a href="https://vibrary.dev">Vibrary</a>.</sub>
