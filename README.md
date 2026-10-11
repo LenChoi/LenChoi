@@ -40,19 +40,11 @@
   AI supports the execution; architecture, trade-offs, and final responsibility remain human-owned.
 
   <div align="center">
-    <a href="https://tokseal.vercel.app/u/LenChoi">
-      <img alt="tokseal — grade and total tokens" src="https://tokseal.vercel.app/badge/LenChoi" />
-      <img alt="tokseal — streak" src="https://tokseal.vercel.app/badge/LenChoi?metrics=grade,streak" />
-    </a>
-    <br /><br />
-    <a href="https://tokseal.vercel.app/u/LenChoi">
-      <img alt="AI contributions — tokens per day" src="https://tokseal.vercel.app/api/graph?user=LenChoi" width="100%" />
-    </a>
-    <a href="https://tokseal.vercel.app/u/LenChoi">
-      <img alt="tokseal card — grade A+" src="https://tokseal.vercel.app/api/card?user=LenChoi&theme=pixel" />
+    <a href="https://vibrary.dev/u/lenchoi?ref=readme">
+      <img src="https://vibrary.dev/card/lenchoi.png" width="600" alt="LenChoi — verified AI builder profile on Vibrary" />
     </a>
     <br />
-    <sub>Live token usage across Claude Code, Codex CLI, and Gemini CLI, sealed by <a href="https://github.com/LenChoi/tokseal">tokseal</a>. Self-reported, aggregate counts only.</sub>
+    <sub>Auto-recorded from Claude Code, Codex, and Gemini CLI — numbers only, never prompts or code — and verified by GitHub login and product ownership on <a href="https://vibrary.dev">Vibrary</a>.</sub>
   </div>
 
   ## GitHub stats
